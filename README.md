@@ -1,2 +1,1 @@
-# trex-2
-trex game
+# C19-TA2
